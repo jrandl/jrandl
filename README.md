@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### 🔭 I’m currently working at Meara Welch Browne, P.C. as a computer programmer.
+### 🔭 I’m currently working at Meara Welch Browne, P.C. as a Computer Programmer & Data Security Advisor.
 ### 🌱 I’m currently working on a Master of Science in Data Analytics at Northwest Missouri State University. 
 ### 📫 How to reach me? Email me at jrandl516@gmail.com
 ### Check out the research project I was involved in during my undergraduate: https://github.com/jeffwoodford27/PyFGH/tree/main/PyFGH.
